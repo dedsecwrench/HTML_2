@@ -1,0 +1,10 @@
+body{
+    padding:25px;
+}
+table, th, td {
+    border: 2px solid black;
+    padding: 5px;
+  }
+  table {
+    border-spacing: 3px;
+  }
